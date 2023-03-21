@@ -78,4 +78,4 @@ Click [here](https://github.com/AliSuleym/Final-Project-1) to go to the Final-Pr
 
 ## URL (Published Webpage):
 
-<a href="" target="_blank">Yummy Food Recipes</a>
+<a href="https://alisuleym.github.io/Final-Project-1/" target="_blank">Yummy Food Recipes</a>
