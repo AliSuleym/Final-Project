@@ -62,3 +62,17 @@ Have a clean repository that meets quality coding standards (file structure, nam
 
 Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
+## [The Technologies Used]
+
+In developing the application, we have used Bootstrap, HTML5, CSS3, Bulma - (CSS Framework), and Vanilla JavaScript.
+
+TheMealDB (https://www.themealdb.com), an open, crowd-sourced database of recipes from all over the world, provided two server-side APIs that has been used. These APIs return JSON data and do not require CORS.
+Despite sharing the same source, the two APIs are distinct. The first API retrieves the recipe's name and image, while the second API retrieves the recipe's ingredients, amount of ingredients, videos, and procedures.
+
+## URL (Github Repository):
+
+Click [here](https://github.com/AliSuleym/Final-Project) to go to the Our-Project-1 Github Repository
+
+## URL (Published Webpage):
+
+<a href="" target="_blank">Yummy Food Recipes</a>
