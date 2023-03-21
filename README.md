@@ -21,6 +21,9 @@ The application's HTML, CSS, JS, images, and README files can be accessed from t
 
 The application has the following interface:
 
+![scrennshot](https://user-images.githubusercontent.com/116298145/226726349-e6db8778-a518-42ec-8ee1-92ffefdf04ad.jpg)
+
+
 ## Acceptance Criteria
 <br>
 
