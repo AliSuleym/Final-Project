@@ -17,7 +17,7 @@ AS A person with an extremely busy schedule who likes to cook or is learning to 
 
 The application runs in a browser and can be viewed at: https://jasonjayoo.github.io/Food-For-Thought/. 
 
-The application's HTML, CSS, JS, images, and README files can be accessed from this repository: https://github.com/AliSuleym/Final-Project/
+The application's HTML, CSS, JS, images, and README files can be accessed from this repository: https://github.com/AliSuleym/Final-Project-1
 
 The application has the following interface:
 
@@ -71,7 +71,7 @@ Despite sharing the same source, the two APIs are distinct. The first API retrie
 
 ## URL (Github Repository):
 
-Click [here](https://github.com/AliSuleym/Final-Project) to go to the Our-Project-1 Github Repository
+Click [here](https://github.com/AliSuleym/Final-Project-1) to go to the Final-Project-1 Github Repository
 
 ## URL (Published Webpage):
 
