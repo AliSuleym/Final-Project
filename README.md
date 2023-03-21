@@ -15,7 +15,7 @@ AS A person with an extremely busy schedule who likes to cook or is learning to 
 ## Installation
 <br>
 
-The application runs in a browser and can be viewed at: https://jasonjayoo.github.io/Food-For-Thought/. 
+The application runs in a browser and can be viewed at: https://alisuleym.github.io/Final-Project-1/. 
 
 The application's HTML, CSS, JS, images, and README files can be accessed from this repository: https://github.com/AliSuleym/Final-Project-1
 
