@@ -1,4 +1,4 @@
-# Final-Project
+# Final-Project-1
 [Yummy-Food-Recipes Web Application]
 
 This project, which is an essential step on the road to becoming full-stack developers, challenges us to apply the information and abilities we have learned during the coding bootcamp to create a web application from scratch.
